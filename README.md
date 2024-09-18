@@ -31,7 +31,9 @@ I’m planning to share insights into my AI research and creative coding project
 
 ## 📫 How to reach me
 
-Just drop me an email; I'll be happy to answer any questions: [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabrembillaa@gmail.com)
+Just drop me an email; I'll be happy to answer any questions: 
+
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabrembillaa@gmail.com)
 
 
 
