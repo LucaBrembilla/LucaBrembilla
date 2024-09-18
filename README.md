@@ -31,7 +31,7 @@ I’m planning to share insights into my AI research and creative coding project
 
 ## 📫 How to reach me
 
-[![Emai]l(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabrembillaa@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucabrembillaa@gmail.com)
 
 
 
