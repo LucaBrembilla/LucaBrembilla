@@ -9,7 +9,7 @@
 
 I’m an Italian AI enthusiast 🇮🇹, currently living in Milan and finishing my Master’s at the Polytechnic University of Milan 🎓. I love working with AI, deep learning, and computer vision 🤖. Outside of coding, I’m a fan of music 🎧, reading 📚, and art 🖌️.
 
-As a former Vice President of Poli.Radio 📻, I’m passionate about technology and culture. You’ll often find me developing innovative solutions, reading books on AI, or enjoying a good mix on Spotify 🎶.
+As a former Vice President of Poli.Radio 📻, I’m passionate about technology and culture. You’ll often find me developing innovative solutions, reading books, or enjoying a good mix on Spotify 🎶.
 
 ## 🔭 I'm currently working on
 - [**My Personal Website**](https://lucabrembilla.dev): I'm making a website to share some insight about me and my everyday life🌐.
