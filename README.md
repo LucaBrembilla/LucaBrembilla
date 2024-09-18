@@ -23,7 +23,7 @@ As a former Vice President of Poli.Radio 📻, I’m passionate about technology
 
 Here are a few exciting projects I’m proud of:
 - **Artificial Neural Networks and Deep Learning Projects**: Two projects in collaboration with some fellas from the university, focusing on applied AI and deep learning tasks, specifically Image Classification and Time Series Forecasting.
-- **Recommender Systems 2023/24 Project**: An application for book recommendation task.
+- **Recommender Systems 2023/24 Project**: A challenge for recommending book. [Here](https://github.com/LucaBrembilla/RecSys2023ChallengePolimi) are some notebook used for it.
 - **Edge Analytics for Broadcasting Network**: System for managing and monitoring networks of IoT devices with a primary focus on supporting proactive maintenance strategies.
 - **Poli.Radio Tech**: Worked on managing and innovating the digital presence and technical operations for the student-run radio 📻.
 
