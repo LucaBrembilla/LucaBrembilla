@@ -12,7 +12,7 @@ I’m an Italian AI enthusiast 🇮🇹, currently living in Milan and finishing
 As a former Vice President of Poli.Radio 📻, I’m passionate about technology and culture. You’ll often find me developing innovative solutions, reading books on AI, or enjoying a good mix on Spotify 🎶.
 
 ## 🔭 I'm currently working on
-- **My Personal Website**: I'm making a website to share some insight about me and my everyday life🌐.
+- [**My Personal Website**](lucabrembilla.dev): I'm making a website to share some insight about me and my everyday life🌐.
 
 
 ## 🌱 I’m currently learning
