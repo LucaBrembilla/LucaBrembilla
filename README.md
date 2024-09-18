@@ -7,7 +7,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=LucaBrembilla)
 
-I’m an Italian AI enthusiast 🇮🇹, currently living in Milan and finishing my Master’s at the Polytechnic University of Milan 🎓. I love working with AI, deep learning, and computer vision 🤖. Outside of coding, I’m a fan of music 🎧, art 🎨, and have been involved in creating graffiti 🖌️.
+I’m an Italian AI enthusiast 🇮🇹, currently living in Milan and finishing my Master’s at the Polytechnic University of Milan 🎓. I love working with AI, deep learning, and computer vision 🤖. Outside of coding, I’m a fan of music 🎧, reading 📚, and art 🖌️.
 
 As a former Vice President of Poli.Radio 📻, I’m passionate about technology and culture. You’ll often find me developing innovative solutions, reading books on AI, or enjoying a good mix on Spotify 🎶.
 
