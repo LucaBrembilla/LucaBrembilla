@@ -26,10 +26,6 @@ Here are a few exciting projects I’m proud of:
 - **Recommender Systems 2023/24 Project**: A challenge for recommending book. [Here](https://github.com/LucaBrembilla/RecSys2023ChallengePolimi) are some notebook used for it.
 - **Edge Analytics for Broadcasting Network**: System for managing and monitoring networks of IoT devices with a primary focus on supporting proactive maintenance strategies.
 
-## ✍️ I've written about
-
-I’m planning to share insights into my AI research and creative coding projects. Stay tuned!
-
 ## 📫 How to reach me
 
 Just drop me an email; I'll be happy to answer any questions: 
