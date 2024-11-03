@@ -16,8 +16,8 @@ As a former Vice President of Poli.Radio 📻, I’m passionate about technology
 
 
 ## 🌱 I’m currently learning
-- Advanced reinforcement learning and generative models 📚.
-- Improving my skills in TensorFlow and Python for more complex AI applications 🧠.
+Autonomous driving technologies 🚗
+
 
 ## 🔨 I've contributed to
 
