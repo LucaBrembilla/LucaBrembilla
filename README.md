@@ -16,7 +16,7 @@ As a former Vice President of Poli.Radio 📻, I’m passionate about technology
 
 
 ## 🌱 I’m currently learning
-Autonomous driving technologies 🚗
+- Autonomous driving technologies 🚗
 
 
 ## 🔨 I've contributed to
