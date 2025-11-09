@@ -7,24 +7,31 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=LucaBrembilla)
 
-I’m an Italian AI enthusiast 🇮🇹, currently living in Milan and finishing my Master’s at the Polytechnic University of Milan 🎓. I love working with AI, deep learning, and computer vision 🤖. Outside of coding, I’m a fan of music 🎧, reading 📚, and art 🖌️.
+I’m **Luca**, an Italian AI researcher and engineer 🇮🇹 based in Milan.  
+I recently graduated *cum laude* (110/110) in **Computer Science and Engineering** with an **AI specialization** from the *Polytechnic University of Milan* 🎓.
 
-As a former Vice President of Poli.Radio 📻, I’m passionate about technology and culture. You’ll often find me developing innovative solutions, reading books, or enjoying a good mix on Spotify 🎶.
+Currently, I’m a **Research Engineer** in the [AIDA – AI Driving Autonomous](https://aida.polimi.it) project, where I work on the perception pipeline, including **3D object detection**, **sensor fusion**, and **real-time deployment** 🚗.
 
-## 🔭 I'm currently working on
-- [**My Personal Website**](https://lucabrembilla.dev): I'm making a website to share some insight about me and my everyday life🌐. [Here](https://github.com/LucaBrembilla/personalWebsite) you can find the repo!🖳
+---
 
+## 🔨 Projects & Contributions
 
-## 🌱 I’m currently learning
-- Autonomous driving technologies 🚗
+- 🚗 [**AIDA**](https://aida.polimi.it): Research and deployment of perception models in C++/CUDA and ROS2.
+- 🧩 **Master’s Thesis — Real-Time LiDAR Object Detection on Edge Devices via Adaptive Cropping**: Developed an adaptive cropping algorithm reducing point cloud processing by up to 50% with minimal accuracy loss; optimized for NVIDIA Jetson AGX Orin and published at ICIAP 2025 (Oral Presentation).  
+- 🧠 [**AN2DL Challenge 2023**](https://github.com/LucaBrembilla/AN2DL2023Challenge1Polimi): Deep learning for plant disease recognition (Image Classification).  
+- 📚 [**Recommender Systems Challenge 2023/24**](https://github.com/LucaBrembilla/RecSys2023ChallengePolimi): Collaborative filtering for book recommendations.  
+- 📡 **Edge Analytics for Broadcasting Networks**: IoT monitoring and proactive maintenance architecture.  
+- 🌐 [**Personal Website**](https://lucabrembilla.dev): Built with React + Firebase, hosting my projects, experiences, and thoughts.
 
+---
 
-## 🔨 I've contributed to
+## 🧾 Publication
 
-Here are a few exciting projects I’m proud of:
-- **Artificial Neural Networks and Deep Learning Projects**: Two projects in collaboration with some fellas from the university, focusing on applied AI and deep learning tasks, specifically [Image Classification](https://github.com/LucaBrembilla/AN2DL2023Challenge1Polimi/) and Time Series Forecasting.
-- **Recommender Systems 2023/24 Project**: A challenge for recommending book. [Here](https://github.com/LucaBrembilla/RecSys2023ChallengePolimi) are some notebook used for it.
-- **Edge Analytics for Broadcasting Network**: System for managing and monitoring networks of IoT devices with a primary focus on supporting proactive maintenance strategies.
+> **S. Mentasti, L. Brembilla, and M. Matteucci**  
+> *Real-Time LiDAR Object Detection on Edge Devices via Adaptive Cropping*  
+> *International Conference on Image Analysis and Processing (ICIAP), 2025 — Oral Presentation.*
+
+---
 
 ## 📫 How to reach me
 
