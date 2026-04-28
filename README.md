@@ -1,8 +1,5 @@
 ## Hi there 👋, my name is Luca Brembilla
 
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/il_breee)
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/fdoaeu80pjusawfcenwkhnc27?si=2869b079d8f14f02)
-
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=LucaBrembilla)
