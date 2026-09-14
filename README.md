@@ -1,27 +1,35 @@
 # Luca Brembilla
 
-PhD researcher in Autonomous Driving.
+PhD researcher at Politecnico di Milano, working on perception and machine learning systems for autonomous driving.
 
-[AIDA Group](https://aida.polimi.it) · [NiuLinx](https://www.niulinx.ai/) · Politecnico di Milano (DEIB)
+My work sits between **3D perception, representation learning, and efficient model deployment**. I am particularly interested in understanding what perception models learn, and in making modern architectures run efficiently on real hardware.
 
-I started working on autonomous-driving perception during my MSc. I was trying to make a
-LiDAR detector run fast enough on an edge device, and ended up developing an adaptive crop
-that removed half the points and doubled the frame rate. That work became my thesis and an
-ICIAP 2025 paper.
+Current work includes:
 
-After that, I joined AIDA's perception team. Most of my work sat between the model and the
-vehicle: training 3D detectors, integrating them into ROS 2, and fixing the TensorRT and CUDA
-pieces needed to run them in real time. A CUDA implementation of PointCloud2 unpacking, for
-example, brought that step from 9 ms to 1.5 ms. Some of the perception software I wrote at
-Politecnico di Milano was later transferred to NiuLinx.
+* self-supervised representation learning for LiDAR and 3D perception;
+* sparse and transformer-based perception models;
+* model compilation and inference optimization with CUDA and TensorRT;
+* deployment of autonomous-driving perception systems on embedded and automotive hardware.
 
-Now I am doing a PhD with Matteo Corno and Giacomo Boracchi. I study self-supervised learning
-for LiDAR and camera-LiDAR models. More specifically, I want to know what pre-training adds
-to their representations, and how much of it is still useful after fine-tuning. Outside that
-work, I am building [DriveRT](https://lucabrembilla.dev/projects/drivert), an open-source
-compiler and runtime for sparse 3D detectors.
+## Selected work
 
-[Website](https://lucabrembilla.dev) ·
-[CV](https://lucabrembilla.dev/docs/Brembilla_Luca_resume.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/lucabrembilla/) ·
-[Email](mailto:luca.brembilla@polimi.it)
+**[DriveRT](https://lucabrembilla.dev/projects/drivert)**
+
+A compiler and runtime for autonomous-driving models, with a focus on sparse 3D networks and end-to-end GPU execution. It compiles preprocessing, sparse backbones, dense heads, and postprocessing into a unified runtime, with graph-level optimizations that exploit model semantics rather than only individual kernels.
+
+**[What Does the Future Buy?](https://lucabrembilla.dev/projects/what-does-the-future-buy)**
+
+An investigation of future-prediction objectives for LiDAR self-supervised learning. The study separates the effects of latent projection and future supervision, and analyzes what information becomes linearly accessible in the learned representation.
+
+**[Adaptive Point Cloud Cropping](https://lucabrembilla.dev/projects/thesis)**
+
+A temporal point-cloud reduction method for efficient 3D object detection on embedded hardware, developed during my MSc thesis and evaluated on an NVIDIA Jetson AGX Orin.
+
+Before starting my PhD, I worked as a Research Engineer in the
+[AIDA Group](https://aida.polimi.it) at Politecnico di Milano on LiDAR and
+camera perception, CUDA and TensorRT optimization, ROS 2 integration, and
+deployment on autonomous vehicles. Some of the perception software I developed
+there was later transferred to [NiuLinx](https://www.niulinx.ai/).
+
+More details and publications are available at
+[lucabrembilla.dev](https://lucabrembilla.dev).
